@@ -8,5 +8,8 @@
             "email": "mlaxwong@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "handle": "mlaxwong-plugin"
+    }
 }
