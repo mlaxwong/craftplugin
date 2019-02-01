@@ -1,0 +1,12 @@
+{
+    "name": "mlaxwong/craftplugin",
+    "type": "craft-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mlax Wong",
+            "email": "mlaxwong@gmail.com"
+        }
+    ],
+    "require": {}
+}
